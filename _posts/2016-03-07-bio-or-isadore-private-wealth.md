@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://isadoreprivatewealth.com'
-  name: Isadoreprivatewealth
-  favicon: null
-  domain: isadoreprivatewealth.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: ''
+datePublished: '2016-03-07T19:02:22.026Z'
+dateModified: '2016-03-07T19:00:55.348Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://isadoreprivatewealth.com/bio/'
-title: 'Bio | Isadore Private Wealth'
-datePublished: '2016-03-07T18:52:49.084Z'
-dateModified: '2016-03-07T18:45:52.566Z'
+title: 'Bio '
 sourcePath: _posts/2016-03-07-bio-or-isadore-private-wealth.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Isadoreprivatewealth
+  domain: isadoreprivatewealth.com
+  url: 'http://isadoreprivatewealth.com'
+  favicon: null
+url: bio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
