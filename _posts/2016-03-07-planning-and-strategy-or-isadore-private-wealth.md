@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://isadoreprivatewealth.com'
-  name: Isadoreprivatewealth
-  favicon: null
-  domain: isadoreprivatewealth.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: ''
+datePublished: '2016-03-07T19:02:30.938Z'
+dateModified: '2016-03-07T19:00:11.348Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://isadoreprivatewealth.com/home/planning/'
-title: 'Planning & Strategy | Isadore Private Wealth'
-datePublished: '2016-03-07T18:52:48.777Z'
-dateModified: '2016-03-07T18:46:18.163Z'
+title: 'Planning & Strategy'
 sourcePath: _posts/2016-03-07-planning-and-strategy-or-isadore-private-wealth.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Isadoreprivatewealth
+  domain: isadoreprivatewealth.com
+  url: 'http://isadoreprivatewealth.com'
+  favicon: null
+url: planning-and-strategy/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
