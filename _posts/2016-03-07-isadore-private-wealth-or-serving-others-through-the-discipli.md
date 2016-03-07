@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://isadoreprivatewealth.com'
-  name: Isadoreprivatewealth
-  favicon: null
-  domain: isadoreprivatewealth.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://isadoreprivatewealth.com/'
+inLanguage: en
+starred: true
 keywords:
   - isadore
   - wordpress
@@ -18,17 +17,20 @@ keywords:
   - plan
   - client
 description: 'At Isadore, we use global trend following in combination with the disciplined, old school approach of value investing, to design custom built portfolios for each client.'
-inLanguage: en
+datePublished: '2016-03-07T19:02:11.865Z'
+dateModified: '2016-03-07T18:59:41.092Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://isadoreprivatewealth.com/'
 title: 'Isadore Private Wealth | Serving others through the disciplined pursuit of global investment opportunities.'
-datePublished: '2016-03-07T18:52:48.718Z'
-dateModified: '2016-03-07T18:45:26.160Z'
 sourcePath: _posts/2016-03-07-isadore-private-wealth-or-serving-others-through-the-discipli.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Isadoreprivatewealth
+  domain: isadoreprivatewealth.com
+  url: 'http://isadoreprivatewealth.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
