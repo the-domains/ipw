@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://isadoreprivatewealth.com'
-  name: Isadoreprivatewealth
-  favicon: null
-  domain: isadoreprivatewealth.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'http://isadoreprivatewealth.com/home/services/'
-title: 'Tailored Services | Isadore Private Wealth'
-datePublished: '2016-03-07T18:52:49.364Z'
-dateModified: '2016-03-07T18:45:35.779Z'
-sourcePath: _posts/2016-03-07-tailored-services-or-isadore-private-wealth.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://isadoreprivatewealth.com/home/services/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-07T19:02:55.560Z'
+dateModified: '2016-03-07T19:02:49.243Z'
+author: []
+related: []
+app_links: []
+title: 'Tailored Services | Isadore Private Wealth'
+sourcePath: _posts/2016-03-07-tailored-services-or-isadore-private-wealth.md
+published: true
+authors: []
+publisher:
+  name: Isadoreprivatewealth
+  domain: isadoreprivatewealth.com
+  url: 'http://isadoreprivatewealth.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
