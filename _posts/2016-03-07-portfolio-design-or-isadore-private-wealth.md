@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://isadoreprivatewealth.com'
-  name: Isadoreprivatewealth
-  favicon: null
-  domain: isadoreprivatewealth.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - long-term
   - investment
@@ -18,17 +16,21 @@ keywords:
   - securities
   - identify
 description: 'We at Isadore use global trend following in combination with the disciplined, old school approach of value investing. Having identified major trends in the global markets, and their resulting impact on commodities, currencies, bonds, and stocks, we then identify specific opportunities to achieve above-average returns through the disciplined use of Value Investing.'
-inLanguage: en
+datePublished: '2016-03-07T19:02:38.862Z'
+dateModified: '2016-03-07T19:00:32.984Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://isadoreprivatewealth.com/home/portfolio-design/'
-title: 'Portfolio Design | Isadore Private Wealth'
-datePublished: '2016-03-07T18:52:48.594Z'
-dateModified: '2016-03-07T18:46:02.154Z'
+title: 'Portfolio Design '
 sourcePath: _posts/2016-03-07-portfolio-design-or-isadore-private-wealth.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Isadoreprivatewealth
+  domain: isadoreprivatewealth.com
+  url: 'http://isadoreprivatewealth.com'
+  favicon: null
+url: portfolio-design/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
