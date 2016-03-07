@@ -1,6 +1,6 @@
 name: IPW
 favicon: null
-layout_spectrum: 0.08166
+layout_spectrum: 0.16115
 typography_spectrum: 0.97002
 title: 'Isadore Private Wealth, LLC'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#324976'
     - '#135084'
   brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.75
+  lightness: 0.75
+  saturation: 0.9375
   rhythmicContrast: 0.5
 purpose: []
