@@ -4,7 +4,7 @@
         <description><![CDATA[IPW]]></description>
         <link>https://thegrid.ai/ipw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:08:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Isadore Private Wealth | Serving others through the disciplined pursuit of global investment opportunities.]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/ipw/portfolio-design/index.html</link>
             <guid isPermaLink="false">d9ed1e82-aee0-4793-bfe2-1c942fe424aa</guid>
             <pubDate>Wed, 31 Aug 2016 17:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tailored Services | Isadore Private Wealth]]></title>
-            <description><![CDATA[<article><h1>Tailored Services | Isadore Private Wealth</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aedfdeecc73d5be928aa3c92198339be922844d1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ipw/tailored-services-or-isadore-private-wealth/index.html</link>
-            <guid isPermaLink="false">95860490-8b9f-40a0-841b-1338b957cb76</guid>
-            <pubDate>Wed, 31 Aug 2016 16:11:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
