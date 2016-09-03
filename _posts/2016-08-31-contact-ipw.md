@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-31T18:37:43.472Z'
+datePublished: '2016-08-31T18:39:01.854Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:37:20.736Z'
+dateModified: '2016-08-31T18:39:01.437Z'
 title: Contact IPW
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-contact-ipw.md
+starred: false
 url: contact-ipw/index.html
 _type: Blurb
 
