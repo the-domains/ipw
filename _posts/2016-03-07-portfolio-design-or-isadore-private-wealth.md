@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-31T17:36:36.017Z'
+datePublished: '2016-08-31T18:14:29.527Z'
 sourcePath: _posts/2016-03-07-portfolio-design-or-isadore-private-wealth.md
 inFeed: true
+isBasedOnUrl: 'http://isadoreprivatewealth.com/home/portfolio-design/'
 authors: []
-hasPage: true
+hasPage: false
 keywords:
   - long-term
   - investment
@@ -18,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T17:36:35.193Z'
+dateModified: '2016-08-31T18:05:50.312Z'
 title: Portfolio Design
 app_links: []
 publisher:
@@ -35,7 +36,6 @@ description: >-
 inLanguage: en
 inNav: true
 starred: false
-url: portfolio-design/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
