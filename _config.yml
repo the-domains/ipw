@@ -39,6 +39,9 @@ navigation:
   - name: 'Contact '
     id: 3121dbbf-b904-4757-9249-912fefe04bca
     type: content
+  - name: 'Planning & Strategy '
+    id: bee9bea2-c91d-41b8-ba10-f9af42ff2e93
+    type: content
 favicon: null
 title: IPW
 description: The Disciplined Pursuit of Global Investment Opportunities
