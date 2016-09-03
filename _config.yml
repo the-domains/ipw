@@ -39,6 +39,9 @@ navigation:
   - name: Meet Neil
     id: ef77c211-dea1-4885-bba8-33efcb3f85b1
     type: content
+  - name: 'Contact '
+    id: 3121dbbf-b904-4757-9249-912fefe04bca
+    type: content
 favicon: null
 title: IPW
 description: The Disciplined Pursuit of Global Investment Opportunities
