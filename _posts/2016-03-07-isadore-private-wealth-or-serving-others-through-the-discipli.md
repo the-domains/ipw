@@ -1,10 +1,10 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://isadoreprivatewealth.com/'
-inLanguage: en
-starred: true
+datePublished: '2016-08-31T18:15:02.664Z'
+sourcePath: >-
+  _posts/2016-03-07-isadore-private-wealth-or-serving-others-through-the-discipli.md
+inFeed: false
+authors: []
+hasPage: true
 keywords:
   - isadore
   - wordpress
@@ -16,23 +16,29 @@ keywords:
   - wisely
   - plan
   - client
-description: 'At Isadore, we use global trend following in combination with the disciplined, old school approach of value investing, to design custom built portfolios for each client.'
-datePublished: '2016-03-07T19:02:11.865Z'
-dateModified: '2016-03-07T18:59:41.092Z'
-author: []
 related: []
+author: []
+dateModified: '2016-08-31T18:14:51.428Z'
+title: >-
+  Isadore Private Wealth | Serving others through the disciplined pursuit of
+  global investment opportunities.
 app_links: []
-title: 'Isadore Private Wealth | Serving others through the disciplined pursuit of global investment opportunities.'
-sourcePath: _posts/2016-03-07-isadore-private-wealth-or-serving-others-through-the-discipli.md
-published: true
-authors: []
 publisher:
   name: Isadoreprivatewealth
   domain: isadoreprivatewealth.com
   url: 'http://isadoreprivatewealth.com'
   favicon: null
+description: >-
+  At Isadore, we use global trend following in combination with the disciplined,
+  old school approach of value investing, to design custom built portfolios for
+  each client.
+inLanguage: en
+inNav: false
+via: {}
+starred: true
+url: isadore-private-wealth-or-serving-others-through-the-discipli/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Isadore Private Wealth &amp;vert; Serving others through the disciplined pursuit of global investment opportunities&amp;period;</h1><p>At Isadore&amp;comma; we use global trend following in combination with the disciplined&amp;comma; old school approach of value investing&amp;comma; to design custom built portfolios for each client&amp;period;</p><img src="http://isadoreprivatewealth.com/wp-content/uploads/2015/01/traverse-city-michigan-commercial-photographer-3.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8c19e3b68ad99b7048a5a492d9c53f9068b950.jpg" /><h1>Isadore Private Wealth | Serving others through the disciplined pursuit of global investment opportunities.</h1><p>At Isadore, we use global trend following in combination with the disciplined, old school approach of value investing, to design custom built portfolios for each client.</p></article>
