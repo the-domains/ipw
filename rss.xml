@@ -4,7 +4,7 @@
         <description><![CDATA[Isadore Private Wealth, LLC]]></description>
         <link>https://thegrid.ai/ipw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 16:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 16:36:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Isadore Private Wealth | Serving others through the disciplined pursuit of global investment opportunities.]]></title>
@@ -12,6 +12,13 @@
             <link>http://isadoreprivatewealth.com/</link>
             <guid isPermaLink="false">ccb4a0df-8b27-4016-bc47-fd857c3486ce</guid>
             <pubDate>Mon, 07 Mar 2016 19:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portfolio Design | Isadore Private Wealth]]></title>
+            <description><![CDATA[<article><h1>Portfolio Design | Isadore Private Wealth</h1><p>We at Isadore use global trend following in combination with the disciplined, old school approach of value investing. Having identified major trends in the global markets, and their resulting impact on commodities, currencies, bonds, and stocks, we then identify specific opportunities to achieve above-average returns through the disciplined use of Value Investing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f7ab2e900f0a3eab0c864fbad31c33f2c3b0333.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ipw/portfolio-design/index.html</link>
+            <guid isPermaLink="false">d9ed1e82-aee0-4793-bfe2-1c942fe424aa</guid>
+            <pubDate>Wed, 31 Aug 2016 16:36:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Planning & Strategy | Isadore Private Wealth]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/ipw/bio/index.html</link>
             <guid isPermaLink="false">ef77c211-dea1-4885-bba8-33efcb3f85b1</guid>
             <pubDate>Mon, 07 Mar 2016 23:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portfolio Design | Isadore Private Wealth]]></title>
-            <description><![CDATA[<article><h1>Portfolio Design | Isadore Private Wealth</h1><p>We at Isadore use global trend following in combination with the disciplined, old school approach of value investing. Having identified major trends in the global markets, and their resulting impact on commodities, currencies, bonds, and stocks, we then identify specific opportunities to achieve above-average returns through the disciplined use of Value Investing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f7ab2e900f0a3eab0c864fbad31c33f2c3b0333.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ipw/portfolio-design/index.html</link>
-            <guid isPermaLink="false">d9ed1e82-aee0-4793-bfe2-1c942fe424aa</guid>
-            <pubDate>Mon, 07 Mar 2016 19:02:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
