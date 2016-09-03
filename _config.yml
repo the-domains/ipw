@@ -36,6 +36,9 @@ navigation:
   - name: 'Portfolio Design '
     id: d9ed1e82-aee0-4793-bfe2-1c942fe424aa
     type: content
+  - name: Meet Neil
+    id: ef77c211-dea1-4885-bba8-33efcb3f85b1
+    type: content
 favicon: null
 title: 'Isadore Private Wealth, LLC'
 description: The Disciplined Pursuit of Global Investment Opportunities
