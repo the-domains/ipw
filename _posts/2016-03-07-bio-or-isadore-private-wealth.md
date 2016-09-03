@@ -3,23 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T23:56:34.825Z'
-dateModified: '2016-03-07T23:56:31.158Z'
+datePublished: '2016-08-31T16:37:06.919Z'
+dateModified: '2016-08-31T16:37:06.430Z'
 author: []
 related: []
 app_links: []
-title: 'Bio '
+title: Bio | Isadore Private Wealth
 sourcePath: _posts/2016-03-07-bio-or-isadore-private-wealth.md
-published: true
 authors: []
 publisher:
   name: Isadoreprivatewealth
   domain: isadoreprivatewealth.com
   url: 'http://isadoreprivatewealth.com'
   favicon: null
+via: {}
+starred: false
 url: bio/index.html
 _context: 'http://schema.org'
 _type: MediaObject
