@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5869b5f9-5e82-42b1-9c3e-1373cc7ae514.png
 name: IPW
 cta:
   domain: null
