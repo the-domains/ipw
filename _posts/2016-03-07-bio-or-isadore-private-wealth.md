@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T18:06:59.344Z'
+datePublished: '2016-08-31T18:14:26.895Z'
 sourcePath: _posts/2016-03-07-bio-or-isadore-private-wealth.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T18:06:58.559Z'
+dateModified: '2016-08-31T18:07:12.940Z'
 title: Bio | Isadore Private Wealth
 app_links: []
 publisher:
