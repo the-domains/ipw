@@ -21,7 +21,7 @@ analytics:
   twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5869b5f9-5e82-42b1-9c3e-1373cc7ae514.png
-name: IPW
+name: 'Isadore Private Wealth, LLC'
 cta:
   domain: null
   bucket: null
@@ -40,6 +40,6 @@ navigation:
     id: ef77c211-dea1-4885-bba8-33efcb3f85b1
     type: content
 favicon: null
-title: 'Isadore Private Wealth, LLC'
+title: IPW
 description: The Disciplined Pursuit of Global Investment Opportunities
 purpose: []
