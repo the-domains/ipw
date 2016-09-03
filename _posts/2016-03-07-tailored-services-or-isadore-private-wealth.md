@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://isadoreprivatewealth.com/home/services/'
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:02:55.560Z'
-dateModified: '2016-03-07T19:02:49.243Z'
+datePublished: '2016-08-31T16:11:30.758Z'
+dateModified: '2016-08-31T16:11:29.741Z'
 author: []
 related: []
 app_links: []
-title: 'Tailored Services | Isadore Private Wealth'
+title: Tailored Services | Isadore Private Wealth
 sourcePath: _posts/2016-03-07-tailored-services-or-isadore-private-wealth.md
-published: true
 authors: []
 publisher:
   name: Isadoreprivatewealth
   domain: isadoreprivatewealth.com
   url: 'http://isadoreprivatewealth.com'
   favicon: null
+via: {}
+starred: false
+url: tailored-services-or-isadore-private-wealth/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
