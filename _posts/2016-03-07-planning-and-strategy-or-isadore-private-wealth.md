@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T18:46:29.244Z'
+datePublished: '2016-08-31T18:48:43.662Z'
 sourcePath: _posts/2016-03-07-planning-and-strategy-or-isadore-private-wealth.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T18:46:28.605Z'
+dateModified: '2016-08-31T18:48:42.831Z'
 title: 'Planning & Strategy '
 app_links: []
 publisher:
