@@ -1,20 +1,4 @@
-name: IPW
-favicon: null
-layout_spectrum: 0.59476
 typography_spectrum: 0.97002
-title: 'Isadore Private Wealth, LLC'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1a2b57'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.8125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.59476
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: IPW
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Tailored Services
+    id: 95860490-8b9f-40a0-841b-1338b957cb76
+    type: content
+favicon: null
+title: 'Isadore Private Wealth, LLC'
 purpose: []
